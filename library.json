@@ -1,0 +1,16 @@
+{
+  "name": "M5-StickT",
+  "description": "Library for M5StickT development kit",
+  "keywords": "M5StickT",
+  "authors": {
+    "name": "tongyihan@outlook.com",
+    "url": "http://www.m5stack.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m5stack/M5-StickT.git"
+  },
+  "version": "0.0.1",
+  "framework": "arduino",
+  "platforms": "espressif32"
+}
